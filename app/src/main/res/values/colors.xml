@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="clPrimary">#1296DB</color>
+    <color name="clPrimaryDark">#1296DB</color>
+    <color name="clAccent">#ffffff</color>
+
+
+    <color name="clWhite">#FFFFFF</color>
+    <color name="clBlue">#0E6FD6</color>
+    <color name="clBlueMain">#1296DB</color>
+    <color name="clBlack">#201E1E</color>
+    <color name="clGray">#616060</color>
+    <color name="clGray1">#CFCFCF</color>
+    <color name="clGray_shallow">#EEEEEE</color>
+    <color name="clBackground">#F0F0F0</color>
+    <color name="clRed">#A3E62B31</color>
+    <color name="clGreen">#4CAF50</color>
+    <color name="clGreen_shallow">#88C98A</color>
+
+    <color name="orange_color">#ff974e</color>
+    <color name="red_color">#fe695d</color>
+    <color name="blue_color">#4984ef</color>
+    <color name="blue_shallow_color2">#5fa0fe</color>
+    <color name="white_color">#ffffff</color>
+    <color name="black_color">#272727</color>
+    <color name="black_gray">#292421</color>
+    <color name="gray">#E1DFDE</color>
+    <color name="red_color2">#ff4444</color>
+    <color name="black_shallow_color">#646565</color>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:opacity="opaque">
+    <item>
+        <shape>
+            <solid android:color="@color/clWhite"/>
+        </shape>
+    </item>
+
+    <item android:top="@dimen/dp_160" android:gravity="center_horizontal">
+        <bitmap
+            android:gravity="top"
+            android:src="@mipmap/ic_bluetooth" />
+    </item>
+</layer-list>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BT Tools</string>
+    <string name="app_full_name">Bluetooth Tools</string>
+
+    <string name="stop">停止</string>
+    <string name="reStart">重新扫描</string>
+    <string name="scan">扫描</string>
+    <string name="Scanning_for_base_station">正在扫描附近的基站…</string>
+    <string name="empty">这里什么都没有</string>
+    <string name="imagview">图片</string>
+    <string name="copyright">© 2016–2019 深圳市黑卡科技有限公司版权所有</string>
+    <string name="us_version">版本号：%s</string>
+
+    <string name="activity_name_BsElectricActivity">基站检测</string>
+    <string name="title_activity_us">关于我们</string>
+</resources>
