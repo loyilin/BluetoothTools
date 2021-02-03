@@ -8,6 +8,7 @@ import com.blankj.utilcode.util.ColorUtils
 
 /**
  * Created by Logan on 2019/3/28.
+ * 添加注释
  */
 class BsElectricModelImpl : BsElectricModel {
 
